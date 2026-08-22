@@ -1,0 +1,8 @@
+node_modules/
+DD.S_
+Store
+*.log
+
+.env
+
+.env.*
