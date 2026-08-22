@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "warm": {
+      "command": "npx",
+      "args": ["-y", "@warmio/mcp@latest", "mcp"],
+      "env": {
+        "WARM_API_KEY": "{{WARM_API_KEY}}"
+      }
+    }
+  }
+}
