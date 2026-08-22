@@ -1,0 +1,15 @@
+{
+  "name": "warm",
+  "displayName": "Warm",
+  "version": "1.0.0",
+  "description": "Connect Warm financial context and approved automation to Cursor via @warmio/mcp. Paste a Warm API key to get started.",
+  "author": {
+    "name": "Warm",
+    "url": "https://warm.io"
+  },
+  "homepage": "https://warm.io/developers",
+  "repository": "https://github.com/jasonstockman/warm-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["warm", "finance", "mcp", "plaid", "budgets", "transactions"],
+  "category": "finance"
+}
